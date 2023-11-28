@@ -51,7 +51,7 @@ Para executar os testes, siga estas etapas:
   - As páginas `HomePage` e `LoginPage` definem os elementos e ações da interface do usuário do LinkedIn.
 - **Steps Definitions**:
   - Arquivo `login.step.rb` contém os passos de teste para o cenário de login com sucesso.
-- **Suporte**:
+- **Support**:
   - Arquivo `credential.rb` armazena as credenciais utilizadas nos testes.
   - `env.rb` configura o ambiente para o Cucumber e Capybara.
 
