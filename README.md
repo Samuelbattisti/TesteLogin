@@ -28,9 +28,6 @@ Arquivo de configuração do Cucumber com definições de ambientes (`prod` e `h
 
 Arquivo que lista as dependências do Ruby.
 
-### `relatorio.html`
-
-Relatório gerado pelo Cucumber com informações sobre a execução dos testes.
 
 ## Executando os Testes
 
